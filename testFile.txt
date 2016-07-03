@@ -1,0 +1,2 @@
+This is a test 7-zip file.
+It is password protected.
